@@ -15,12 +15,12 @@ while i<(len(n)/2):
 print(b)
 
 
-# b=[]
-# for i in range (len(n)/2):
-#     for j in range (len (n)):
-#         num=n[i]+n[j]
-#         if number==num:
-#             k=n[i]
-#             l=n[j]
-#             b.append([k,l])
-# print(b)
+b=[]
+for i in range (len(n)/2):
+    for j in range (len (n)):
+        num=n[i]+n[j]
+        if number==num:
+            k=n[i]
+            l=n[j]
+            b.append([k,l])
+print(b)
