@@ -1,12 +1,12 @@
-# binary_number=[1,0,0,1,1,0,1,1]
-num=int(input("enter the number of item"))
-i=0
-binary_number=[]
-while i<num:
-    item=int(input("enter the number"))
-    binary_number.append(item)
-    i=i+1
-print(binary_number)
+binary_number=[1,0,0,1,1,0,1,1]
+# num=int(input("enter the number of item"))
+# i=0
+# binary_number=[]
+# while i<num:
+#     item=int(input("enter the number"))
+#     binary_number.append(item)
+#     i=i+1
+# print(binary_number)
 i=0
 length=len(binary_number)
 a=[]
