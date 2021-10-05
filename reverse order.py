@@ -1,9 +1,11 @@
 places=["delhi","gujrat","rajsthan","punjab","kerala"]
 # i=len(places)-1
+# a=[]
 # while i>=0:
-#     # places=(places[length-i-1])
-#     print(places[i])
+#     a.append(places[i])
+#     # print(places[i])
 #     i-=1
+# print(a)
 
 # i=0
 # length=len(places)
