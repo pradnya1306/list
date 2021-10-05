@@ -1,4 +1,5 @@
-char_list = ["a","n","t","a","a", "t", "n", "n", "a", "x", "u", "g", "a", "x", "a"]
+# char_list = ["a","n","t","a","a", "t", "n", "n", "a", "x", "u", "g", "a", "x", "a"]
+char_list=[1, 1, 2, 3, 4, 4, 5, 1]
 i=0
 a=[]
 count=0
