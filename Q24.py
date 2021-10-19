@@ -1,4 +1,4 @@
-list=[1,3,5,7,9,20]
+list=[1,3,5,7,9,16]
 i=0
 list2=[]
 while i<len(list)-1:

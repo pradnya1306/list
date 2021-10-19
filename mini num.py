@@ -6,7 +6,7 @@
 #     a.append(num1)
 #     i+=1
 # print(a)
-a=[167,12,13,14,9]
+a=[1,12,13,14,9]
 x=0
 mini=a[0]
 while x<(len(a)):

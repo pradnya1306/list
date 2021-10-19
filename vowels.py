@@ -10,7 +10,7 @@ while i<len(name2):
         k.append(name2[i])
         # print(name2[i],"vowels")
     else:
-        m.append(name2)
+        m.append(name2[i])
         # print(name2[i],"component")
     i=i+1
 print(k)

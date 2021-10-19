@@ -1,5 +1,5 @@
 magic_square = [[8, 3, 4],    
-                [1, 5, 9],
+                [4, 5, 9],
                 [6, 7, 2]]
 i=0
 while i<len(magic_square):
@@ -41,7 +41,7 @@ while k<len(magic_square):
 
     k=k+1
 print("diagnolal 2",sum3)
-if sum==sum1==sum2==sum3:
+if (sum==sum1==sum2==sum3):
     print("its magic square")
 else:
     print("its not magic square")
