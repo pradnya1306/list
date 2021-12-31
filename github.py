@@ -1,3 +1,3 @@
-a="pradnya pokharkar"
-b="rutuja "
-c="sakshi"
+a=1
+b=2
+c=3
